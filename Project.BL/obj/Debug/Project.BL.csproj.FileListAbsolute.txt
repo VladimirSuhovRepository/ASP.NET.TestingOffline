@@ -1,0 +1,11 @@
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\obj\Debug\Project.BL.csprojResolveAssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.BL.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.BL.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.DAL.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\EntityFramework.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.ORM.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.DAL.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\EntityFramework.xml
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\bin\Debug\Project.ORM.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\obj\Debug\Project.BL.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.BL\obj\Debug\Project.BL.pdb

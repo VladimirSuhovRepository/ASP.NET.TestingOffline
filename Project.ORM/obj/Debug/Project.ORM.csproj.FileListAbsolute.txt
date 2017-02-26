@@ -1,0 +1,10 @@
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\Project.ORM.dll.config
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\Project.ORM.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\Project.ORM.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\EntityFramework.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\EntityFramework.xml
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\obj\Debug\Project.ORM.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\obj\Debug\Project.ORM.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.ORM\obj\Debug\Project.ORM.csprojResolveAssemblyReference.cache

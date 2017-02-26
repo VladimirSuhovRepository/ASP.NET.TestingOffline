@@ -1,0 +1,12 @@
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\Project.DAL.dll.config
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\Project.DAL.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\Project.DAL.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\EntityFramework.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\Project.ORM.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\Project.ORM.pdb
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\EntityFramework.xml
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\obj\Debug\Project.DAL.csprojResolveAssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\obj\Debug\Project.DAL.dll
+C:\Users\vladi\OneDrive\Документы\Visual Studio 2015\Projects\Project.DAL\Project.DAL\obj\Debug\Project.DAL.pdb
